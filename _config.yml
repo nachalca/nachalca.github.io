@@ -7,9 +7,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-name : Di Cook
-description: Professor at Iowa State University Statistics
-url: http://dicook.github.io
+name : ignacio alvarez
+description: Statistics PHD student at ISU
+url: http://nachalca.github.io
 auto: true
 markdown: rdiscount
 permalink: /:year/:month/:day/:title 
@@ -23,8 +23,6 @@ navigation:
   layout: post_ak
 - text: Research
   url: /research.html
-- text: Teaching
-  url: /teaching.html
 - text: CV
   url: /cv.html
 
@@ -32,17 +30,8 @@ blognav:
 - text: Home
   url: /blog.html
   layout: post_ak
-- text: ISU Statistical Graphics Working Group
-  url: /graphics.html
-  layout: default_wg
 
 wg:
-- text: Spring 2015
-  url: /graphics.html
-  layout: default_wg
-- text: Fall 2014
-  url: /graphics-f14.html
-  layout: default_wg
 - text: Blog
   url: /blog.html
   layout: post_ak
@@ -114,5 +103,5 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : visnut
+      short_name : nachalca
  
